@@ -1,0 +1,183 @@
+{
+    "CVE-2000-1219": {
+        "purls": [
+            "pkg:deb/debian/gcc-3.3@1:3.3.4-1?distro=stretch",
+            "pkg:deb/debian/gcc-3.3@1:3.3.4-1?distro=buster",
+            "pkg:deb/debian/gcc-3.3@1:3.3.6ds1-32?distro=sid",
+            "pkg:deb/debian/gcc-3.3@1:3.3.6ds1-31?distro=bullseye",
+            "pkg:deb/debian/gcc-3.3@1:3.3.4-1?distro=bullseye",
+            "pkg:deb/debian/gcc-3.3@1:3.3.6ds1-28?distro=stretch",
+            "pkg:deb/debian/gcc-3.3@1:3.3.4-1?distro=sid",
+            "pkg:deb/debian/gcc-3.3@1:3.3.6ds1-30?distro=buster"
+        ],
+        "cpes": [
+            "cpe:2.3:a:gnu:g\\+\\+:*:*:*:*:*:*:*:*",
+            "cpe:2.3:a:gnu:gcc:*:*:*:*:*:*:*:*"
+        ]
+    },
+    "CVE-2000-1220": {
+        "purls": [
+            "pkg:deb/debian/lpr@1:0.48-1?distro=stretch",
+            "pkg:deb/debian/lpr@1:2008.05.17.2?distro=stretch",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=bullseye",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=buster",
+            "pkg:deb/debian/lpr@1:2008.05.17.3?distro=sid",
+            "pkg:deb/debian/lpr@1:2008.05.17.3?distro=buster",
+            "pkg:deb/debian/lpr@1:2008.05.17.3?distro=bullseye",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=sid"
+        ],
+        "cpes": [
+            "cpe:2.3:o:redhat:linux:6.0:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.15f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:4.0:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.16f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:5.1:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.6:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.14f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.1:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:5.0:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.12:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:4.1:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:4.2:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.2:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.18f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.13:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.14m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.8:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.7:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:6.1:*:i386:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.15m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.17m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.17f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.18m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.16m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.4:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.10:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:5.2:*:i386:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.11:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.3:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.5:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.9:*:*:*:*:*:*:*"
+        ]
+    },
+    "CVE-2000-1221": {
+        "purls": [
+            "pkg:deb/debian/lpr@1:2008.05.17.3?distro=sid",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=stretch",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=bullseye",
+            "pkg:deb/debian/lpr@1:2008.05.17.3?distro=bullseye",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=buster",
+            "pkg:deb/debian/lpr@1:0.48-1?distro=sid",
+            "pkg:deb/debian/lpr@1:2008.05.17.3?distro=buster",
+            "pkg:deb/debian/lpr@1:2008.05.17.2?distro=stretch"
+        ],
+        "cpes": [
+            "cpe:2.3:o:redhat:linux:6.0:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.15f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.16f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.6:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.14f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.1:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:5.0:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.12:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:4.1:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:4.2:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.2:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.18f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.13:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.14m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.8:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.7:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:6.1:*:i386:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.15m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.17m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.17f:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.18m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.16m:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.4:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.10:*:*:*:*:*:*:*",
+            "cpe:2.3:o:redhat:linux:5.2:*:i386:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.11:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.3:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.5:*:*:*:*:*:*:*",
+            "cpe:2.3:o:sgi:irix:6.5.9:*:*:*:*:*:*:*",
+            "cpe:2.3:o:debian:debian_linux:2.1:*:*:*:*:*:*:*"
+        ]
+    },
+    "CVE-2000-0992": {
+        "purls": [
+            "pkg:deb/debian/openssh@1:8.3p1-1?distro=bullseye",
+            "pkg:deb/debian/openssh@1:3.9p1-1?distro=buster",
+            "pkg:deb/debian/openssh@1:3.9p1-1?distro=stretch",
+            "pkg:deb/debian/openssh@1:7.9p1-10+deb10u2?distro=buster",
+            "pkg:deb/debian/openssh@1:8.3p1-1?distro=sid",
+            "pkg:deb/debian/openssh@1:3.9p1-1?distro=bullseye",
+            "pkg:deb/debian/openssh@1:3.9p1-1?distro=sid",
+            "pkg:deb/debian/openssh@1:7.4p1-10+deb9u7?distro=stretch"
+        ],
+        "cpes": [
+            "cpe:2.3:a:ssh:ssh:1.2.24:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.22:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.18:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.31:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.28:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.29:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.19:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.30:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.20:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.15:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.16:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.25:*:*:*:*:*:*:*",
+            "cpe:2.3:a:openbsd:openssh:1.2.3:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.14:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.17:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.23:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.27:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.21:*:*:*:*:*:*:*",
+            "cpe:2.3:a:openbsd:openssh:1.2:*:*:*:*:*:*:*",
+            "cpe:2.3:a:ssh:ssh:1.2.26:*:*:*:*:*:*:*"
+        ]
+    },
+    "CVE-2000-1254": {
+        "purls": [
+            "pkg:deb/debian/openssl@0.9.6-1?distro=sid",
+            "pkg:deb/debian/openssl@1.1.1g-1?distro=sid",
+            "pkg:deb/debian/openssl@0.9.6-1?distro=buster",
+            "pkg:deb/debian/openssl@1.1.1d-0+deb10u3?distro=buster",
+            "pkg:deb/debian/openssl@0.9.6-1?distro=stretch",
+            "pkg:deb/debian/openssl@0.9.6-1?distro=bullseye",
+            "pkg:deb/debian/openssl@1.1.0l-1~deb9u1?distro=stretch",
+            "pkg:deb/debian/openssl@1.1.1g-1?distro=bullseye"
+        ],
+        "cpes": [
+            "cpe:2.3:a:openssl:openssl:*:*:*:*:*:*:*:*"
+        ]
+    },
+    "CVE-2000-1226": {
+        "purls": [
+            "pkg:deb/debian/snort@2.9.7.0-5?distro=stretch",
+            "pkg:deb/debian/snort@2.9.7.0-5?distro=buster",
+            "pkg:deb/debian/snort@1.6.1-1?distro=stretch",
+            "pkg:deb/debian/snort@1.6.1-1?distro=sid",
+            "pkg:deb/debian/snort@1.6.1-1?distro=buster",
+            "pkg:deb/debian/snort@2.9.15.1-3?distro=sid"
+        ],
+        "cpes": [
+            "cpe:2.3:a:snort:snort:1.6:*:*:*:*:*:*:*"
+        ]
+    },
+    "CVE-2000-1137": {
+        "purls": [
+            "pkg:ebuild/sys-apps/ed@0.2-r3",
+            "pkg:ebuild/sys-apps/ed@0.2-r4"
+        ],
+        "cpes": [
+            "cpe:2.3:a:gnu:ed:2.16tr:*:*:*:*:*:*:*",
+            "cpe:2.3:a:gnu:ed:2.18.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:gnu:ed:2.15:*:*:*:*:*:*:*",
+            "cpe:2.3:a:gnu:ed:2.18:*:*:*:*:*:*:*"
+        ]
+    }
+}
